@@ -7,4 +7,4 @@ C++ Hamming code generator project for the Hardware Design course at St. Olaf.
 
 ===========
 
-This program takes in a hexidecimal number and computes its Hamming code.
+This program takes in a hexidecimal number and computes and outputs its corresponding Hamming code.
