@@ -1,4 +1,4 @@
-Hamming
+==Hamming==
 =======
 
 © Armaan Bindra, Fall 2013
